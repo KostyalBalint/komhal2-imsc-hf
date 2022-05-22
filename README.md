@@ -63,5 +63,5 @@ Client side fastest:
         Client side time: 139.134167 ms
 ```
 
-##Conclusion
+## Conclusion
 As the results show splitting up the data results in a faster and cheaper solution.
